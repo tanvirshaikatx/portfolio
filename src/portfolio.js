@@ -699,7 +699,7 @@ const publications = {
   data: [
     {
       id: "symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
+      name: "Symbolic Sudoku Solver",
       createdAt: "2023-07-02T00:00:00Z",
       description: "Paper published in KDD KiML 2023",
       url: "https://arxiv.org/abs/2307.00653",
