@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Ashutosh Hathidara Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://tanvir-shaikat.vercel.app/",
   },
 };
 
@@ -698,25 +698,25 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
-      id: "symbolic-sudoku-solver",
-      name: "Symbolic Sudoku Solver",
+      id: "BText Classification",
+      name: "An Explainable Machine Learning Framework with BERT for Multi-Source AI Generated Text Classification",
       createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
+      description: "Paper Submitted inTelematics and Informatics R 2024",
+      url: "",
     },
     {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
+      id: "Liver Disease",
+      name: "An Ensemble Approach for Artificial Neural Network-Based Liver Disease Identification from Optimal Features through Hybrid Modeling Integrated with Advanced Explainable AI ",
       createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
+      description: ": Journal: Liver Research (Submitted)",
+      url: "",
     },
     {
-      id: "consistency-models",
-      name: "Consistency Models",
+      id: "Potato Leaf Disease",
+      name: "A Cutting-Edge Customized Convolutional Neural Network Model to Identify Potato Leaf Disease with Web Application ",
       createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
+      description: "Journal: Journal of Plant Diseases and Protection (JPDP), (Submitted)",
+      // url: "https://blog.paperspace.com/consistency-models/",
     },
   ],
 };
