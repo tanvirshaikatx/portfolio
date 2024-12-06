@@ -11,7 +11,7 @@ const seo = {
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Tanvir Shaikat Portfolio",
     type: "website",
     url: "https://tanvir-shaikat.vercel.app/",
   },
