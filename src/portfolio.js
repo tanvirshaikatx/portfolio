@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "In every challenge, I don’t just seek solutions—I seek growth. My journey is driven by curiosity and a passion for creating solutions through technology. From creating AI tools to advancing machine learning, I strive to push boundaries, learn, and contribute to AI and NLP. My goal is to grow as a researcher and advance the frontiers of artificial intelligence.",
   resumeLink:
-    "https://drive.google.com/file/d/1OmeXwqGXIlh_Rqr-NPAWZioSUZR2MqHJ/view?fbclid=IwY2xjawFn0-hleHRuA2FlbQIxMAABHS3ZBKV6oNLldXatGX2QPvi8PM_2cN_GU8FY-L9_SuV1fXoEL5YhR_fxQg_aem_247F5KeKZqwKTwbSpqq8mg",
+    "https://drive.google.com/file/d/12fcj5a20c8YkMaUmIqnhsiCLuEPV1mnx/view?usp=drive_link",
   portfolio_repository: "https://github.com/tanvirshaikatx",
   githubProfile: "github.com/tanvirshaikatx",
 };
