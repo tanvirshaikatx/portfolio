@@ -705,6 +705,20 @@ const publications = {
       url: "",
     },
     {
+      id: "Pulmonary Disease Care",
+      name: "Explainability Elevated Obstructive Pulmonary Disease Care: Severity Classification, Quality of Life Prediction, and Treatment Impact Assessment ",
+      createdAt: "2025-01-19T00:00:00Z",
+      description: ": Conference: IEEE, ECCE2025 ((Accept)",
+      url: "",
+    },
+    {
+      id: "Liver Disease",
+      name: "Improving Network Classification Accuracy through Feature Clustering and Ensemble Machine Learning with Explainable AI ",
+      createdAt: "2023-09-19T00:00:00Z",
+      description: ": Conference: IEEE, ECCE2025 ((Accept)",
+      url: "",
+    },
+    {
       id: "Liver Disease",
       name: "An Ensemble Approach for Artificial Neural Network-Based Liver Disease Identification from Optimal Features through Hybrid Modeling Integrated with Advanced Explainable AI ",
       createdAt: "2023-09-19T00:00:00Z",
