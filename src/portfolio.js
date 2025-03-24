@@ -701,7 +701,7 @@ const publications = {
       id: "BText Classification",
       name: "An Explainable Machine Learning Framework with BERT for Multi-Source AI Generated Text Classification",
       createdAt: "2024-07-02T00:00:00Z",
-      description: "Paper Submitted inTelematics and Informatics R 2024",
+      description: "Paper Submitted in Telematics and Informatics R 2024",
       url: "",
     },
     {
@@ -722,8 +722,8 @@ const publications = {
       id: "Liver Disease",
       name: "An Ensemble Approach for Artificial Neural Network-Based Liver Disease Identification from Optimal Features through Hybrid Modeling Integrated with Advanced Explainable AI ",
       createdAt: "2024-09-19T00:00:00Z",
-      description: " Journal: MEDIN (Accepted)",
-      url: "",
+      description: " Journal: MEDIN (Published)",
+      url: "https://ojs.bonviewpress.com/index.php/MEDIN/article/view/4744",
     },
     {
       id: "Potato Leaf Disease",
