@@ -715,7 +715,7 @@ const publications = {
       id: "Network Classification",
       name: "Improving Network Classification Accuracy through Feature Clustering and Ensemble Machine Learning with Explainable AI ",
       createdAt: "2025-01-19T00:00:00Z",
-      description: "Conference: IEEE, ECCE2025 ((Accepted)",
+      description: "Conference: IEEE, ECCE2025 ((Published)",
       url: "https://ieeexplore.ieee.org/abstract/document/11013433",
     },
     {
