@@ -533,7 +533,18 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Data Analyst",
+          title: "Junior Product Manager",
+          company: "POS HUB BD",
+          company_url: "https://poshubbd.com/",
+          logo_path: "orion.png",
+          duration: "March 2025 - Present",
+          location: "Motijheel, Dhaka, Bangladesh",
+          description:
+            " Collaborate with clients to analyze business needs and translate them into detailed software and system requirements Assisting in product planning, feature prioritization, and roadmap development for POS and retail software solutions.",
+          color: "#000000",
+        },
+        // {
+        //   title: "Machine Learning Data Analyst",
           company: "Orion Informatics Ltd.",
           company_url: "https://www.orion-informatics.com/contact-us.html",
           logo_path: "orion.png",
@@ -541,18 +552,7 @@ const experience = {
           location: "Gulshan, Dhaka, Bangladesh",
           description:
             "Working as a Machine Learning Data Analyst at Orion Informatics Ltd. My expertise lies in cutting-edge technologies, specifically large language models (LLM) and retrieval-augmented generation (RAG).",
-          color: "#000000",
-        },
-        // {
-        //   title: "Associate AI Engineer",
-        //   company: "Legato Health Technology",
-        //   company_url: "https://legatohealthtech.com/",
-        //   logo_path: "legato_logo.png",
-        //   duration: "June 2020 - Aug 2021",
-        //   location: "Hyderabad, Telangana",
-        //   description:
-        //     "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-        //   color: "#0879bf",
+           color: "#0879bf",
         // },
         // {
         //   title: "Android and ML Developer",
@@ -621,15 +621,15 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         // {
-        //   title: "Google Explore ML Facilitator",
-        //   company: "Google",
-        //   company_url: "https://about.google/",
-        //   logo_path: "google_logo.png",
-        //   duration: "June 2019 - April 2020",
-        //   location: "Hyderabad, Telangana",
-        //   description:
-        //     "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-        //   color: "#4285F4",
+          title: "Co-convener",
+          company: "BASIS Student Forum Bangladesh University ",
+          // company_url: "https://about.google/",
+          // logo_path: "google_logo.png",
+          duration: "JAN 2024 - April 2025",
+          location: "Dhaka, Bangladesh",
+          // description:
+          //   "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+          color: "#4285F4",
         // },
         // {
         //   title: "Microsoft Student Partner",
@@ -701,7 +701,7 @@ const publications = {
       id: "BText Classification",
       name: "An Explainable Machine Learning Framework with BERT for Multi-Source AI Generated Text Classification",
       createdAt: "2024-07-02T00:00:00Z",
-      description: "Paper Submitted in Telematics and Informatics R 2024",
+      description: "Published, Journal: Telematics and Informatics R 2026",
       url: "",
     },
     {
