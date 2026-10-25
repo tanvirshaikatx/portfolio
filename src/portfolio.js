@@ -620,7 +620,7 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
-        // {
+        {
           title: "Co-convener",
           company: "BASIS Student Forum Bangladesh University ",
           // company_url: "https://about.google/",
@@ -630,7 +630,7 @@ const experience = {
           // description:
           //   "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
-        // },
+        },
         // {
         //   title: "Microsoft Student Partner",
         //   company: "Microsoft",
