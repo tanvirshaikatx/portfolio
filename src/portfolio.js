@@ -540,11 +540,11 @@ const experience = {
           duration: "March 2025 - Present",
           location: "Motijheel, Dhaka, Bangladesh",
           description:
-            " Collaborate with clients to analyze business needs and translate them into detailed software and system requirements Assisting in product planning, feature prioritization, and roadmap development for POS and retail software solutions.",
+            " Collaborate with clients to analyze business needs and translate them into detailed software and system requirements. Assist in product planning, feature prioritization, and roadmap development for POS and retail software solutions.",
           color: "#000000",
         },
-        // {
-        //   title: "Machine Learning Data Analyst",
+        {
+          title: "Machine Learning Data Analyst",
           company: "Orion Informatics Ltd.",
           company_url: "https://www.orion-informatics.com/contact-us.html",
           logo_path: "orion.png",
@@ -553,7 +553,7 @@ const experience = {
           description:
             "Working as a Machine Learning Data Analyst at Orion Informatics Ltd. My expertise lies in cutting-edge technologies, specifically large language models (LLM) and retrieval-augmented generation (RAG).",
            color: "#0879bf",
-        // },
+        },
         // {
         //   title: "Android and ML Developer",
         //   company: "Muffito Incorporation",
